@@ -13,4 +13,4 @@ npm run docs:dev
 ```
 http://localhost:3000
 ```
-5. Read the docs -> (https://vitepress.vuejs.org/)[https://vitepress.vuejs.org/]
+5. Read the docs -> https://vitepress.vuejs.org/
