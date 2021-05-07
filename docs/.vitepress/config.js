@@ -3,7 +3,7 @@ module.exports = {
 	description: 'Study materials for the course',
 	themeConfig: {
 		nav: [
-			{ text: 'Introduction', link: '/intro/', activeMatch: '^/$|^/intro/' },
+			{ text: 'Introduction', link: '/intro/', activeMatch: '^/intro/' },
 			{ text: 'Front End', link: '/frontend/', activeMatch: '^/frontend/' }
 		],
 		sidebar: {

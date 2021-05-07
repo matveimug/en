@@ -1,6 +1,8 @@
 ---
 home: true
 actionText: Get Started
+heroImage: ./edesign-vector.svg
+heroAlt: Edesign Hero
 actionLink: /intro/
 features:
   - title: Simplicity First
