@@ -1,4 +1,5 @@
 module.exports = {
+	base: '/en/',
 	title: 'Interactive Graphics | Erasmus E-Design',
 	description: 'Study materials for the course',
 	themeConfig: {
