@@ -1,28 +1,24 @@
-# This is an introdcution
-
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
+# An introdcution to UI/UX design
 
 
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-## Subtitle
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
 
-### Some lists
+## Introduction to the subject 
 
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-- First 
-- Second
-- Third
-
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-## Subtitle
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-::: tip
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
+::: tip DURATION
+:stopwatch: 2 hours at school
 :::
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
 
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
+No online materials here?
+
+
+
+## A Brief History of Web, Webdesign, UI/UX
+
+CSS-Tricks: Web History 
+
+<Testcomponent name="Custom Component" />
+
+
+<script setup>
+    import Testcomponent from '../components/Testcomponent.vue'
+</script>
