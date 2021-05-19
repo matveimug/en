@@ -1,10 +1,10 @@
 <template>
   <ul class="duration-snippet">
     <li>⏱</li>
-    <li :class="s==0 ? 'duration-0' : 'duration-n'"><b>School</b>: {{s}}</li>
-    <li :class="i==0 ? 'duration-0' : 'duration-n'"><b>Individual</b>: {{i}}</li>
-    <li :class="es==0 ? 'duration-0' : 'duration-n'"><b>E-school</b>: {{es}}</li>
-    <li :class="ei==0 ? 'duration-0' : 'duration-n'"><b>E-individual</b>: {{ei}}</li>
+    <li :class="s==0 ? 'duration-0' : 'duration-n'" title="Lessons at school. In a class. With a teacher. The school."><b>School</b>: {{s}}</li>
+    <li :class="i==0 ? 'duration-0' : 'duration-n'" title="We guide you, we may give you some materials to read or watch, but you mostly work at your own."><b>Individual</b>: {{i}}</li>
+    <li :class="es==0 ? 'duration-0' : 'duration-n'" title="Sometimes we meet through the internet. This is the e-school."><b>E-school</b>: {{es}}</li>
+    <li :class="ei==0 ? 'duration-0' : 'duration-n'" title="E-Individual work? Basically this is the same as individual work."><b>E-individual</b>: {{ei}}</li>
   </ul>
 </template>
 
