@@ -1,11 +1,3 @@
 # Markup languages and Front-end workprocess
 
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
 
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-## Subtitle 2
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
-
-Lorem ipsum dolor, sit amet, consectetur adipisicing elit. Minima ut assumenda asperiores magnam suscipit mollitia odio quo impedit delectus amet culpa, nam ratione rerum reiciendis quia quam esse dignissimos, distinctio.
