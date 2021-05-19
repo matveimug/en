@@ -2,17 +2,24 @@
  
 
 
-## Preamble to Your Studies
 
-### Before we start
+## 👉 Before we start
 
-In this section we'll talk about topics that you actually should of know BEFORE you entered this curriculum. And maybe you do. But **IF** you don't **THEN** this is the ultimate time to start - it's never too late :) 
+First, let's talk about the term ***Interactive Graphics***. If you google it, most of the results are probably related to data analysis and infographics or maybe some (oldschool) visualization techniques, which may be a bit confusing. 
 
-So first we will talk mostly about the basics, like...
+We use *Interactive Graphics* here, because our content correspond to specific competence standard in Estonian vocational school system, where the curriculum is named [*Interaktiivne graafika*](https://www.kutseregister.ee/ctrl/en/Standardid/vaata/10719487). 
+
+Basically we talk about beginner level WEB- and UI design with a little bit of front-end, markup and coding skills. 
 
 
 
-### ...what is interactive graphics?
+
+
+
+
+## Introduction to IG
+
+### So, what is it?
 <DurationSnippet s="2" />
 
 ::: tip
