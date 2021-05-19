@@ -5,10 +5,11 @@
 
 /* YO, tüübid! Override existing or create new CSS rules here.  */
 
-html {
-    font-size: 20px;
-}
 
 h2 {
-    margin-top: 4rem;
+    margin-top: 5vh;
+}
+
+h3{
+    margin-top: 5vh;
 }
