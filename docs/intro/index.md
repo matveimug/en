@@ -132,6 +132,6 @@ Ipsum
 Dolor
 
 
-<script setup>
+<!-- <script setup>
     import DurationSnippet from '../components/DurationSnippet.vue'
-</script>
+</script> -->
