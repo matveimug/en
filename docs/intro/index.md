@@ -9,7 +9,7 @@ First, let's talk about the term ***Interactive Graphics***. If you google it, m
 
 We use *Interactive Graphics* here, because our content correspond to specific competence standard in Estonian vocational school system, where the curriculum is named [*Interaktiivne graafika*](https://www.kutseregister.ee/ctrl/en/Standardid/vaata/10719487). 
 
-Basically we talk about beginner level WEB- and UI design with a little bit of front-end, markup and coding skills. 
+> Basically we talk about beginner level WEB- and UI design with a little bit of front-end, markup and coding skills. 
 
 
 
@@ -45,7 +45,9 @@ Ok, so, in this chapter we will talk about:
 ### Brief History of Web, Webdesign, UI/UX
 <DurationSnippet ei="3" />
 
-Now we know what the IG is, let's take a look back and try to understand, where it comes from. The (quite short) History of Interactive Graphics! Nobody fucking calls 
+Now we know what the IG is, let's take a look back and try to understand, where it comes from. The History of Interactive Graphics. 
+
+Lorem ipsum lorem ipsum
 
 
 
