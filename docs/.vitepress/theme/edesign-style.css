@@ -1,0 +1,14 @@
+:root {
+    /* override existing or create new variables here */
+    --some-value: 1rem;
+}
+
+/* YO, tüübid! Override existing or create new CSS rules here.  */
+
+html {
+    font-size: 20px;
+}
+
+h2 {
+    margin-top: 4rem;
+}
