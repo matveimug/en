@@ -9,6 +9,7 @@ module.exports = {
 		],
 		sidebar: {
 			'/frontend/': getFrontEndSidebar(),		   
+			'/intro/': getIntroSidebar(),		   
 		}
 	}
 }
@@ -54,6 +55,43 @@ function getFrontEndSidebar() {
 				{ text: 'DOM manipulation', link: '/frontend/js/dom' },
 				{ text: 'Events', link: '/frontend/js/events' },
 				{ text: 'Frameworks', link: '/frontend/js/frameworks' },
+			]
+		},
+	]
+}
+
+function getIntroSidebar() {
+	return [
+		{ text: 'Before we start', link: '/intro/' },
+		{
+			text: 'The Introduction',
+			children: [
+				{ text: 'What is IG?', link: '/intro/intro/what' },
+				{ text: 'History of IG', link: '/intro/intro/history' }
+			]
+		},
+		{
+			text: 'The Process',
+			children: [
+				{ text: 'The Brief', link: '/intro/planning/brief' },
+				{ text: 'Setting up the project', link: '/intro/planning/setup' },
+				{ text: 'Time schedule', link: '/intro/planning/schedule' },
+				{ text: 'Pricing', link: '/intro/planning/pricing' },
+			]
+		},
+		{
+			text: 'The Ergonomics',
+			children: [
+				{ text: 'This', link: '/intro/ergonomics/this' },
+				{ text: 'That', link: '/intro/ergonomics/that' },
+			]
+		},
+		{
+			text: 'The Community',
+			children: [
+				{ text: 'Inspiration, know-how, communication', link: '/intro/community/inspiration' },
+				{ text: 'Tools', link: '/intro/community/tools' },
+				{ text: 'Resources', link: '/intro/community/resources' },
 			]
 		},
 	]
