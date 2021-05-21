@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started
-heroImage: ./edesign-vector.svg
+heroImage: ./edesign-logo--mono.svg
 heroAlt: Edesign Hero
 actionLink: /intro/
 features:

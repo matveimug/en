@@ -79,7 +79,7 @@ function getIntroSidebar() {
 				{ text: 'Setting up the project', link: '/intro/planning/setup' },
 				{ text: 'Time schedule', link: '/intro/planning/schedule' },
 				{ text: 'Pricing', link: '/intro/planning/pricing' },
-				{ text: 'Documenting and Archiving', link: '/intro/planning/documenting' },
+				{ text: 'Documenting and archiving', link: '/intro/planning/documenting' },
 			]
 		},
 		{
@@ -117,7 +117,7 @@ function getDesignSidebar() {
 			text: 'Composition',
 			children: [
 				{ text: 'Design patterns', link: '/design/composition/patterns' },
-				{ text: 'Layout / Grid', link: '/design/composition/layout' },
+				{ text: 'Layout / grid', link: '/design/composition/layout' },
 				{ text: 'Visual hierarchy', link: '/design/composition/hierarchy' },
 			]
 		},
@@ -134,10 +134,10 @@ function getDesignSidebar() {
 			children: [
 				{ text: 'Analyze', link: '/design/prototype/analyze' },
 				{ text: 'Pen and paper', link: '/design/prototype/paper' },
-				{ text: 'Lo-Fi Prototypes', link: '/design/prototype/lofi' },
+				{ text: 'Lo-Fi prototypes', link: '/design/prototype/lofi' },
 				{ text: 'Software', link: '/design/prototype/software' },
 				{ text: 'Interaction', link: '/design/prototype/interaction' },
-				{ text: 'Hi-Fi Prototypes', link: '/design/prototype/hifi' },
+				{ text: 'Hi-Fi prototypes', link: '/design/prototype/hifi' },
 			]
 		},
 	]
