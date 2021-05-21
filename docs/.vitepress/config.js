@@ -5,11 +5,13 @@ module.exports = {
 	themeConfig: {
 		nav: [
 			{ text: 'Introduction', link: '/intro/', activeMatch: '^/intro/' },
-			{ text: 'Front End', link: '/frontend/', activeMatch: '^/frontend/' }
+			{ text: 'Front End', link: '/frontend/', activeMatch: '^/frontend/' },
+			{ text: 'Design', link: '/design/', activeMatch: '^/design/' }
 		],
 		sidebar: {
 			'/frontend/': getFrontEndSidebar(),		   
-			'/intro/': getIntroSidebar(),		   
+			'/intro/': getIntroSidebar(),
+			'/design/': getDesignSidebar(),
 		}
 	}
 }
@@ -77,6 +79,7 @@ function getIntroSidebar() {
 				{ text: 'Setting up the project', link: '/intro/planning/setup' },
 				{ text: 'Time schedule', link: '/intro/planning/schedule' },
 				{ text: 'Pricing', link: '/intro/planning/pricing' },
+				{ text: 'Documenting and Archiving', link: '/intro/planning/documenting' },
 			]
 		},
 		{
@@ -92,6 +95,49 @@ function getIntroSidebar() {
 				{ text: 'Inspiration, know-how, communication', link: '/intro/community/inspiration' },
 				{ text: 'Tools', link: '/intro/community/tools' },
 				{ text: 'Resources', link: '/intro/community/resources' },
+			]
+		},
+	]
+}
+
+function getDesignSidebar() {
+	return [
+		{ text: 'UI/UX design and prototyping', link: '/design/' },
+		{
+			text: 'Usability and accessibility',
+			children: [
+				{ text: 'Usability', link: '/design/usability/usability' },
+				{ text: 'Accessibility', link: '/design/usability/accessibility' },
+				{ text: 'Color and contrast', link: '/design/usability/color' },
+				{ text: 'Typography', link: '/design/usability/typography' },
+				{ text: 'Semantics', link: '/design/usability/semantics' },
+			]
+		},
+		{
+			text: 'Composition',
+			children: [
+				{ text: 'Design patterns', link: '/design/composition/patterns' },
+				{ text: 'Layout / Grid', link: '/design/composition/layout' },
+				{ text: 'Visual hierarchy', link: '/design/composition/hierarchy' },
+			]
+		},
+		{
+			text: 'Animation',
+			children: [
+				{ text: 'Types of web animation', link: '/design/animation/types' },
+				{ text: 'Animation principles', link: '/design/animation/principles' },
+				{ text: 'Main concepts', link: '/design/animation/concepts' },
+			]
+		},
+		{
+			text: 'Prototyping',
+			children: [
+				{ text: 'Analyze', link: '/design/prototype/analyze' },
+				{ text: 'Pen and paper', link: '/design/prototype/paper' },
+				{ text: 'Lo-Fi Prototypes', link: '/design/prototype/lofi' },
+				{ text: 'Software', link: '/design/prototype/software' },
+				{ text: 'Interaction', link: '/design/prototype/interaction' },
+				{ text: 'Hi-Fi Prototypes', link: '/design/prototype/hifi' },
 			]
 		},
 	]
