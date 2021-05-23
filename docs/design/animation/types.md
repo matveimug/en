@@ -1,5 +1,9 @@
 # Animation types
 
+
+
+
+
 - CSS
     - transitions
     - animations

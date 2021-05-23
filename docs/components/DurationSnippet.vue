@@ -71,7 +71,7 @@ export default {
         /* font-size: larger; */
     }
     .duration-snippet > li.duration-0 {
-        opacity: 0.5;
+        opacity: 0.25;
     }
     .duration-snippet > li.duration-n {
         font-weight: 700;
@@ -95,12 +95,13 @@ export default {
     .duration-snippet__util {
         flex-grow: 0;
         flex-shrink: 1;
-        flex-basis: 3rem;
-        max-width: 3rem;
+        flex-basis: 4ch;
+        max-width: 4ch;
     }
     .duration-snippet__button {
         cursor: pointer;
-        background: var(--c-gray-dark);
-        color: white;
+        background: var(--ed-c-gray-80);
+        color: var(--ed-c-white);
+
     }
 </style>

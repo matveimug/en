@@ -4,14 +4,14 @@ module.exports = {
 	description: 'Study materials for the course',
 	themeConfig: {
 		nav: [
-			{ text: 'Introduction', link: '/intro/', activeMatch: '^/intro/' },
-			{ text: 'Front End', link: '/frontend/', activeMatch: '^/frontend/' },
-			{ text: 'Design', link: '/design/', activeMatch: '^/design/' }
+			{ text: '01.Introduction', link: '/intro/', activeMatch: '^/intro/' },
+			{ text: '02.Front End', link: '/frontend/', activeMatch: '^/frontend/' },
+			{ text: '03.Design', link: '/design/', activeMatch: '^/design/' },
 		],
 		sidebar: {
-			'/frontend/': getFrontEndSidebar(),		   
 			'/intro/': getIntroSidebar(),
 			'/design/': getDesignSidebar(),
+			'/frontend/': getFrontEndSidebar(),		   
 		}
 	}
 }
@@ -68,7 +68,7 @@ function getIntroSidebar() {
 		{
 			text: 'The Introduction',
 			children: [
-				{ text: 'What is IG?', link: '/intro/intro/what' },
+				{ text: 'What is Interactive Graphics?', link: '/intro/intro/what' },
 				{ text: 'History of IG', link: '/intro/intro/history' }
 			]
 		},

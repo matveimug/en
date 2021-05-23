@@ -1,16 +1,50 @@
 :root {
     /* override existing or create new variables here */
     --some-value: 1rem;
-    --c-gray-dark : hsl(0, 0%, 25%);
+    --ed-base: 16px;
+    --ed-base-05: calc(var(--ed-base) * 0.5);
+    --ed-base-025: calc(var(--ed-base) * 0.25);
+    --ed-base-125: calc(var(--ed-base) * 1.25);
+    --ed-base-15: calc(var(--ed-base) * 1.5);
+    --ed-base-175: calc(var(--ed-base) * 1.75);
+    --ed-base-2: calc(var(--ed-base) * 2);
+    
+
+    --ed-c-black:       hsl(0, 0%, 100%);
+    --ed-c-gray-20:     hsl(0, 0%, 20%);
+    --ed-c-gray-40:     hsl(0, 0%, 40%);
+    --ed-c-gray-60:     hsl(0, 0%, 60%);
+    --ed-c-gray-80:     hsl(0, 0%, 80%);
+    --ed-c-white:       hsl(0, 0%, 100%);
+    
+    --ed-c-primary:     hsl(153, 48%, 46%);
+
+
 }
 
 /* YO, tüübid! Override existing or create new CSS rules here.  */
 
 
-h2 {
+h2, h3 {
     margin-top: clamp(40px, 8vh, 120px);
 }
 
-h3{
-    margin-top: clamp(40px, 8vh, 120px);
+.ed-button {
+    /* display: flex; */
+    padding: var(--ed-base-05) var(--ed-base);
+    line-height: 100%;
+    border-radius: 0.5ch;
+}
+.ed-button.ed-primary {
+    background: var(--c-brand);
+    color: white;
+}
+.ed-elevated-025 {
+    box-shadow: 0 0.25ch var(--ed-base-025) 0 hsla(0, 0%, 0%, 0.15);
+}
+.ed-elevated-05 {
+    box-shadow: 0 0.5ch var(--ed-base-05) 0 hsla(0, 0%, 0%, 0.15);
+}
+.ed-elevated-1 {
+    box-shadow: 0 1ch var(--ed-base) 0 hsla(0, 0%, 0%, 0.15);
 }
