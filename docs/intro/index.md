@@ -1,13 +1,28 @@
 # Introduction to Interactive Graphics
 
+
+::: warning 🛠
+
+Please notice, that this document is a working draft and everything is under construction at the moment! 
+
+:::
+
 ## ✋ Before we start
 
-First, let's talk about the term ***Interactive Graphics***. If you google it, most of the results are probably related to data analysis and infographics or maybe some (often oldschool) visualization techniques, which may be a bit confusing. 
+Should we talk a bit about the [Erasmus Edesign project](https://e-disain.eu/en/) here? Or at least mention, that these materials are part of the project. Ok, now I mentioned it. Good.
 
-We use the term *Interactive Graphics* here, because our content correspond to specific competence standard in Estonian vocational school system, where the curriculum is named [*Interaktiivne graafika*](https://www.kutseregister.ee/ctrl/en/Standardid/vaata/10719487). 
+## Overview
 
-Basically we talk about beginner level WEB- and UI design skills with basic understanding of front-end process, markup and coding languages. 
+- Right now here is one Module of the whole Interactive Graphics Curriculum.
+- From the top menu ☝ you'll find 4 learning outcomes or big Chapters of the module:
+    - Introduction to the subject
+    - FrontEnd developement basics
+    - UI/UX design basics
+    - Creating graphics
+- Once inside any of the 4 Chapters, you'll find Topics and Subtopics of the chapter from the 👈 left sidebar.
 
+
+<a class="ed-button ed-primary ed-elevated-025" href="/intro/intro/what.html">Lets go</a>
 
 
 <!-- 
