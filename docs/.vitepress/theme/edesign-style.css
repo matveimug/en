@@ -24,6 +24,9 @@
 
 /* YO, tüübid! Override existing or create new CSS rules here.  */
 
+.content a {
+    text-decoration: underline;
+}
 
 h2, h3 {
     margin-top: clamp(40px, 8vh, 120px);
