@@ -7,11 +7,13 @@ module.exports = {
 			{ text: '01.Introduction', link: '/intro/', activeMatch: '^/intro/' },
 			{ text: '02.Front End', link: '/frontend/', activeMatch: '^/frontend/' },
 			{ text: '03.Design', link: '/design/', activeMatch: '^/design/' },
+			{ text: '04.Graphics', link: '/graphics/', activeMatch: '^/graphics/' },
 		],
 		sidebar: {
 			'/intro/': getIntroSidebar(),
 			'/design/': getDesignSidebar(),
-			'/frontend/': getFrontEndSidebar(),		   
+			'/frontend/': getFrontEndSidebar(),
+			'/graphics/': getGraphicsSidebar(),
 		}
 	}
 }
@@ -138,6 +140,33 @@ function getDesignSidebar() {
 				{ text: 'Software', link: '/design/prototype/software' },
 				{ text: 'Interaction', link: '/design/prototype/interaction' },
 				{ text: 'Hi-Fi prototypes', link: '/design/prototype/hifi' },
+			]
+		},
+	]
+}
+
+function getGraphicsSidebar() {
+	return [
+		{ text: 'Creating graphic assets', link: '/graphics/' },
+		{
+			text: 'Vector- and pixelgraphics',
+			children: [
+				{ text: 'File formats', link: '/graphics/vector-pixel/file-formats' },
+				{ text: 'Optimizing graphics', link: '/graphics/vector-pixel/optimizing' },
+				
+			]
+		},
+		{
+			text: 'Illustration',
+			children: [
+				{ text: 'Web illustration', link: '/graphics/illustration/web-illustration' },
+				{ text: 'Pictography and icons', link: '/graphics/illustration/pictography' },
+			]
+		},
+		{
+			text: 'Infographics',
+			children: [
+				{ text: 'Working with data', link: '/graphics/infographics/working-with-data' },
 			]
 		},
 	]

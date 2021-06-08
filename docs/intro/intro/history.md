@@ -1,9 +1,8 @@
 # Brief History of Web, Webdesign, UI/UX
 <DurationSnippet ei="3" />
 
-Now we know what the IG is, let's take a look back and try to understand, where it comes from. The History of Interactive Graphics. 
+Now we know what the IG is, let's take a look back and try to understand, where it comes from. 
 
-Lorem ipsum lorem ipsum
 
 
 
