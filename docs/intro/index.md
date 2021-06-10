@@ -15,10 +15,10 @@ Should we talk a bit about the [Erasmus Edesign project](https://e-disain.eu/en/
 
 - Right now here is one Module of the whole Interactive Graphics Curriculum.
 - From the top menu ☝ you'll find 4 learning outcomes or big Chapters of the module:
-    - Introduction to the subject
-    - FrontEnd developement basics
-    - UI/UX design basics
-    - Creating graphics
+    1. **Introduction** to the subject
+    2. **FrontEnd** developement basics
+    3. UI/UX **design basics**
+    4. Creating **graphics**
 - Once inside any of the 4 Chapters, you'll find Topics and Subtopics of the chapter from the 👈 left sidebar.
 
 
