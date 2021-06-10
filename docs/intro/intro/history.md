@@ -1,5 +1,5 @@
 # Brief History of Web, Webdesign, UI/UX
-<DurationSnippet ei="3" />
+<DurationSnippet i="3" />
 
 Now we know what the IG is, let's take a look back and try to understand, where it comes from. 
 

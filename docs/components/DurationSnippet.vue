@@ -2,9 +2,8 @@
   <ul class="duration-snippet" :class="open ? 'duration-snippet--open' : 'duration-snippet--closed'">
     <li class="duration-snippet__util">⏱</li>
     <li :class="s==0 ? 'duration-0' : 'duration-n'" title="Lessons at school. In a class. With a teacher. The school."><b>School</b>: {{s}}</li>
-    <li :class="i==0 ? 'duration-0' : 'duration-n'" title="We guide you, we may give you some materials to read or watch, but you mostly work at your own."><b>Individual</b>: {{i}}</li>
-    <li :class="es==0 ? 'duration-0' : 'duration-n'" title="Sometimes we meet through the internet. This is the e-school."><b>E-school</b>: {{es}}</li>
-    <li :class="ei==0 ? 'duration-0' : 'duration-n'" title="E-Individual work? Basically this is the same as individual work."><b>E-individual</b>: {{ei}}</li>
+    <li :class="i==0 ? 'duration-0' : 'duration-n'" title="Sometimes we give you some materials to read or watch, but you mostly work at your own."><b>Individual</b>: {{i}}</li>
+    <li :class="e==0 ? 'duration-0' : 'duration-n'" title="Sometimes we meet from distance through the internet."><b>E-learning</b>: {{e}}</li>
     
     <li v-if="open" @click="open = !open" class="duration-snippet__util duration-snippet__button">✖</li>
     <li v-else @click="open = !open" class="duration-snippet__util duration-snippet__button">◀</li>
@@ -26,11 +25,7 @@ export default {
             type: [Number, String], 
             default: 0
         }, 
-        es : {
-            type: [Number, String], 
-            default: 0
-        },
-        ei : {
+        e : {
             type: [Number, String], 
             default: 0
         }
