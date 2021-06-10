@@ -1,7 +1,5 @@
 # Graphic file formats for web apps
 
-<DurationSnippet s="20" e="3" />
-
 You should know from your previous study about vector and pixel graphics and what distinguishes them. Then you also know, that there is a lot of [different type file formats](https://en.wikipedia.org/wiki/Image_file_formats), like JPG, TIFF, PSD, PDF, SVG, EPS, RAW and so on. But not all the formats are suitable for web developement.
  
 
