@@ -149,7 +149,7 @@ function getGraphicsSidebar() {
 	return [
 		{ text: 'Creating graphic assets', link: '/graphics/' },
 		{
-			text: 'Vector- and pixelgraphics',
+			text: 'Vector- and raster graphics',
 			children: [
 				{ text: 'File formats', link: '/graphics/vector-pixel/file-formats' },
 				{ text: 'Optimizing graphics', link: '/graphics/vector-pixel/optimizing' },

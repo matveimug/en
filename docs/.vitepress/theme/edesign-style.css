@@ -19,6 +19,8 @@
     
     --ed-c-primary:     hsl(153, 48%, 46%);
 
+    --ed-c-warning:  hsla(50, 100%, 70%, 0.3);
+
 
 }
 
@@ -31,6 +33,15 @@
 h2, h3 {
     margin-top: clamp(40px, 8vh, 120px);
 }
+
+mark {
+    background-color: var(--ed-c-warning);
+}
+
+.ed-warning {
+    background-color: var(--ed-c-warning);
+}
+
 
 .ed-button {
     /* display: flex; */
