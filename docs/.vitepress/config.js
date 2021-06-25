@@ -152,7 +152,7 @@ function getGraphicsSidebar() {
 			text: 'Vector- and raster graphics',
 			children: [
 				{ text: 'File formats', link: '/graphics/vector-pixel/file-formats' },
-				{ text: 'Optimizing graphics', link: '/graphics/vector-pixel/optimizing' },
+				{ text: 'Using images in web', link: '/graphics/vector-pixel/using-images' },
 				
 			]
 		},

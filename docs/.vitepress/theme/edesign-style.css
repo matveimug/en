@@ -31,7 +31,11 @@
 }
 
 h2, h3 {
-    margin-top: clamp(40px, 8vh, 120px);
+    margin-top: clamp(2.5rem, 8vh, 7rem);
+}
+
+h4 {
+    margin: clamp(1rem, 6vh, 5rem) 0 1rem 0;
 }
 
 mark {
@@ -44,14 +48,16 @@ mark {
 
 
 .ed-button {
-    /* display: flex; */
     padding: var(--ed-base-05) var(--ed-base);
     line-height: 100%;
     border-radius: 0.5ch;
+    text-decoration: none;
 }
+
 .ed-button.ed-primary {
     background: var(--c-brand);
-    color: white;
+    color: var(--ed-c-white);
+    text-decoration: none;
 }
 .ed-elevated-025 {
     box-shadow: 0 0.25ch var(--ed-base-025) 0 hsla(0, 0%, 0%, 0.15);

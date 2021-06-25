@@ -1,7 +1,5 @@
 # Introduction to Interactive Graphics
 
-<v-slider />
-> {{ get('x') }}
 
 ::: warning 🛠
 
@@ -18,10 +16,18 @@ Should we talk a bit about the [Erasmus Edesign project](https://e-disain.eu/en/
 - Right now here is one Module of the whole Interactive Graphics Curriculum.
 - From the top menu ☝ you'll find 4 learning outcomes or big Chapters of the module:
   1. **Introduction** to the subject
-  2. **FrontEnd** developement basics
+  2. Basics of **FrontEnd** developement
   3. UI/UX **design basics**
-  4. Creating **graphics**
-- Once inside any of the 4 Chapters, you'll find Topics and Subtopics of the chapter from the 👈 left sidebar.
+  4. Creating **web graphics**
+- Once inside any of the 4 Chapters, you'll find Topics and Subtopics of each chapter from the 👈 left sidebar.
+
+
+::: tip
+
+The web is evolving in such speed that todays articles may be obsolete tomorrow. So if you plan to use this material, use it as a reference - but always search for more/newer sources.
+
+:::
+
 
 <a class="ed-button ed-primary ed-elevated-025" href="/intro/intro/what.html">Lets go</a>
 
