@@ -14,33 +14,15 @@ You should know from your previous study about vector and pixel graphics and wha
 
 :::
 
-<!-- ## List of available formats
-
-We can not use all graphic file formats in browsers or web apps. Let's take a look, which ones we will talk about. 
-
-| Pixel     | Vector    |
-| -----     |--------   |
-| [JPG](https://en.wikipedia.org/wiki/JPEG)       | [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)       |
-| [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)       |           |
-| [GIF](https://en.wikipedia.org/wiki/GIF)       |           |
-| [WebP](https://en.wikipedia.org/wiki/WebP)      |           | -->
 
 ::: warning NOTE: canvas
-
 Should we mention ```<canvas>``` here as an option to show and manipulate raster images on browser?
-
 :::
 
 ::: warning NOTE: video
-
 Where are we talking about ```<video>```?
-
 :::
 
-<!-- ☝ As you can see, there are many options for pixel formats and only one for vector. -->
-
-
-<!-- ## Subtopics -->
 
 
 
@@ -77,9 +59,11 @@ Where are we talking about ```<video>```?
         - [TinyPNG](https://tinypng.com/)
 - **[GIF](https://en.wikipedia.org/wiki/GIF)** - mostly for animations
     - [Animated GIFs](https://www.schoolofmotion.com/blog/gif-in-after-effects)
-- **[WebP](https://developers.google.com/speed/webp)** is relatively new and not very videly supported by the mainstream design programs.
+- **[WebP](https://developers.google.com/speed/webp)**  
     - Supports animation
-    - Helper tools and utilities
+    - Supports transparency
+    - [Better quality/size ratio](https://insanelab.com/blog/web-development/webp-web-design-vs-jpeg-gif-png/) than JPG or PNG
+    - Helper tools and utilities - although there is pretty good browser support, WebP is not very widely supported by the mainstream design programs. That's why we need some extra tools or utilities to generate the WebP files. 
         - [Google converters](https://developers.google.com/speed/webp/docs/precompiled)
         - [Photoshop plugin](https://developers.google.com/speed/webp/docs/webpshop)
         - [CloudConvert](https://cloudconvert.com/webp-converter)
@@ -107,24 +91,13 @@ There is only one link, so you may think that there isn't much to talk about. Bu
 :::
 
 
+## Conclusion
 
+As you can read from [this Dev.to article](https://dev.to/jsco/understanding-image-formats-on-the-web-4op8), these are the basic rules, which format to choose:
 
-
-
-## Using graphic assets in HTML
-
-Imagine a website that is displayed on huge desktop monitor and a small smartphone. If there should be a full-width image, which size is optimized for the phone, it will appear stretched and blurry on the big screen. We can use big image and show it on both devices, but its "weight" is huge and it makes no point to download all the image data to the phone. It means that we should use **different size files for different devices**. As we talk about **raster images**, of course. **Vector (SVG) is scalable**. In this section we talk about, how.
-
-
-- [Responsive images](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/)
-- Responsive background images
-    - with [media queries](https://www.juangarcia.design/blog/responsive-background-images-with-image-set/#the-problem)
-    - with [image-set()](https://www.juangarcia.design/blog/responsive-background-images-with-image-set/#the-solution) <mark>⚠ check [the support](https://caniuse.com/css-image-set) before using in production!</mark>
-- Icons / icon fonts
-    - add
-    - content
-    - here
-
-⚠ *<mark>Content queries</mark> should be also covered when wider browser support becomes available. Maybe its not that important here, but in the main CSS part of the course?*
+- Use **SVG for logos/icons/illustrations** etc or anything you want to **animate**
+- Use **WEBP for everything else** with either JPG or PNG as a fallback
+- Use **JPEG** for Photos (as a **fallback for webp**)
+- Use **PNG** for logos/illustrations etc **when no SVG** is available (as a **fallback for webp**)
 
 
