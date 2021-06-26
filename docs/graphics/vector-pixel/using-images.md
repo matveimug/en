@@ -52,7 +52,7 @@ Sometimes you want to use an image as background of a page or section of page. R
 
 ## Icons / icon fonts
 
-There are other type of graphics in user interfaces than images - functional graphics or **icons** that help users better to understand or navigate the UI. Creating icons is a separate topic and will be covered in the illustration section. But we don't always have to create all the icons by ourselves. Insted we can **use existing icon packs or fonts**. In this section we will covers that.
+There are other type of graphics in user interfaces than images - functional graphics or **icons** that help users better to understand or navigate the UI. Creating icons is a separate topic and will be covered in the [illustration section](/en/graphics/illustration/pictography). But we don't always have to create all the icons by ourselves. Instead we can **use existing icon packs or fonts**. In this section we will covers that.
 
 
 ### How to use
@@ -64,6 +64,16 @@ There are [several ways](https://fershad.com/writing/web-icons-in-2021/) to use 
 - icon fonts: some icon sets can be used as fonts
 
 There has been a debate about which way is the best. You can read about it in [this article](https://www.lambdatest.com/blog/its-2019-lets-end-the-debate-on-icon-fonts-vs-svg-icons/).
+
+Here you can find a nice [collection of icon fonts](https://bootstrapious.com/p/icon-fonts)
+
+You can also **generate your own fonts**:
+- [Icomoon.io](https://icomoon.io/)
+- [Fontello.com](https://fontello.com/)
+- [Glyphter.com](https://glyphter.com/)
+- Also, [read this guide](https://medium.com/@adamshriki/the-right-process-of-creating-maintaining-icons-font-in-2019-c6829368464a)
+
+🛑 Although icon fonts are very easy to use, there are many downsides. Read [Stop using icon fonts](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/)
 
 
 
