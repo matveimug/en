@@ -52,7 +52,7 @@ Sometimes you want to use an image as background of a page or section of page. R
 
 ## Icons / icon fonts
 
-There are other type of graphics in user interfaces than images - functional graphics or **icons** that help users better to understand or navigate the UI. Creating icons is a separate topic and will be covered in the [illustration section](/en/graphics/illustration/pictography). But we don't always have to create all the icons by ourselves. Instead we can **use existing icon packs or fonts**. In this section we will covers that.
+There are other type of graphics in user interfaces than images - functional graphics or **icons** that help users better to understand or navigate the UI. Creating icons is a separate topic and will be covered in the illustration section. But we don't always have to create all the icons by ourselves. Instead we can **use existing icon packs or fonts**. In this section we will covers that.
 
 
 ### How to use
