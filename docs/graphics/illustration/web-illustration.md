@@ -52,15 +52,15 @@ There are also resources of free illusttration assets.
 ## Backgrounds and patterns
 
 <div style="height:50vh; background-color: #faf9a2;
-opacity: 0.5;
+opacity: 0.7;
 background-image: radial-gradient(circle at center center, #7adb79, #faf9a2), repeating-radial-gradient(circle at center center, #7adb79, #7adb79, 16px, transparent 32px, transparent 16px);
 background-blend-mode: multiply;
-display: flex; justify-content:center; align-items:center;
+display: flex; justify-content:center; align-items:center; border-radius:3vw;
 ">
-<h1 style="font-weight:700; font-size:5vw; color:hsl(240,45%,10%); transform: rotate(-5deg)">BACKGROUND</h1>
+<h1 style="font-weight:700; font-size:5vw; color:hsl(240,45%,100%); transform: rotate(-5deg); text-align:center; line-height:1; text-shadow:0 0.25ch 0.1ch hsla(0,0%,0%,0.25)" >ME HAZ&apos;<br>BACKGROUND</h1>
 </div>
 
-One specific type of illustrations are background patterns. You can create a pattern with your design tools and use it as CSS ```background-image```
+One specific type of illustrations are background patterns. You can create a pattern with your design tools and use it as CSS ```background-image``` or **generate with code**, like the section above ☝.
 
 
 ### The Math
