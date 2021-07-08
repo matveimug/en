@@ -41,7 +41,7 @@ There are services avalable, that host, deliver, generate and optimize your imag
 Sometimes you want to use an image as background of a page or section of page. Read, how to make responsive backgrounds:
 
 - with [media queries](https://www.juangarcia.design/blog/responsive-background-images-with-image-set/#the-problem)
-- with [image-set()](https://www.juangarcia.design/blog/responsive-background-images-with-image-set/#the-solution) <mark>⚠ check [the support](https://caniuse.com/css-image-set) before using in production!</mark>
+- with [image-set()](https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/) <mark>⚠ check [the support](https://caniuse.com/css-image-set) before using in production!</mark>
 
 ⚠ *<mark>Content queries</mark> should be also covered when wider browser support becomes available. Maybe its not that important here, but in the main CSS part of the course?*
 

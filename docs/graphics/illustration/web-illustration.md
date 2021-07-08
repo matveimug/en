@@ -31,9 +31,6 @@ People often say, that they can not draw. But you don't have to be a drawing gur
 - [Absolute Beginner’s Guide To Illustration. Where To Start?](https://anyakuvarzina.medium.com/absolute-beginners-guide-to-illustration-where-to-start-aba8c097287d)
 - [Designer’s Guide: How To Create Illustrations Step By Step](https://www.designhill.com/design-blog/designers-guide-how-to-create-illustrations-step-by-step/)
 - [A Step-by-step Guide to Designing Custom Illustrations Without Any Drawing Skills](https://www.toptal.com/designers/illustration/a-step-by-step-guide-to-designing-custom-illustrations-without-any-drawing-skills)
-
-
-
 - [Using Illustration of People in Design](https://designmodo.com/web-design-people-illustrations/)
 
 
@@ -87,11 +84,11 @@ One specific type of illustrations are background patterns. You can create a pat
 
 You also can generate patterns with CSS or javascript. The aim here is not to dive too deep technically, let's just see some resources and helper tools
 
-- [Toptal.com patterns](https://www.toptal.com/designers/subtlepatterns/)
-- [Magic Patterns CSS generator](https://www.magicpattern.design/tools/css-backgrounds)
-- [List of generators](https://dev.to/kiranrajvjd/the-ultimate-css-background-pattern-resource-20m8)
+- [List of pattern generators](https://dev.to/kiranrajvjd/the-ultimate-css-background-pattern-resource-20m8)
 
 More
 
+- [Magic Patterns CSS generator](https://www.magicpattern.design/tools/css-backgrounds)
 - [CSS-Doodle](https://css-doodle.com/)
+- [Toptal.com patterns](https://www.toptal.com/designers/subtlepatterns/)
 
