@@ -9,6 +9,6 @@
     "vitepress": "^0.13.2"
   },
   "dependencies": {
-    "visualia": "^0.0.22"
+    "visualia": "^0.0.43"
   }
 }

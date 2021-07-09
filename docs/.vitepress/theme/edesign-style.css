@@ -69,6 +69,16 @@ mark {
     box-shadow: 0 1ch var(--ed-base) 0 hsla(0, 0%, 0%, 0.15);
 }
 
+.ed-rounded-025 {
+    border-radius: var(--ed-base-025);
+}
+.ed-rounded-05 {
+    border-radius: var(--ed-base-05);
+}
+.ed-rounded-1 {
+    border-radius: var(--ed-base);
+}
+
 .video-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
