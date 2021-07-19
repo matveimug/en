@@ -119,6 +119,7 @@ const dataset = ref([
             <text :y="map(d.coffee,0,10,0,-100)+7" x="5" font-size="5" fill="white" text-anchor="middle">{{d.coffee}}</text>
             <text :y="map(d.coffee,0,10,0,-100)-3" x="5" font-size="5" fill="coal" text-anchor="middle">{{d.beer}}</text>
         </g>
+        <!-- <path :d="linepath([{x: 0, y: 0}, {x: 10, y: 10}])" stroke="red" /> -->
     </g>
     <g :transform="translate(12,16)">
         <text font-size="7">Uncle Bobs coffee and beer consumption. Week 24.</text>
@@ -169,11 +170,18 @@ But sometimes you want to use data, that is not just about yourself. Luckily the
 
 ### Types of data formats
 
-- json
-- csv
-- xml
-- excel/sheets
-- API's
+- [json](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+- [csv](https://en.wikipedia.org/wiki/Comma-separated_values)
+- [xml](https://en.wikipedia.org/wiki/XML)
+
+
+### Data over APIs
+
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OVvTv9Hy91Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [22 APIs Every Data Scientist Should Know](https://www.springboard.com/library/data-science/top-apis-for-data-scientists/)
 
 
 
@@ -213,8 +221,9 @@ There are some tools and applications that help us to visualise data. Some of th
 #### Advanced software
 
 - [Tableau Public](https://public.tableau.com/en-us/s/)
-- [MS Power BI](https://powerbi.microsoft.com/en-us/)
+- [Orange](https://orangedatamining.com/)
 - [Google Data Studio](https://datastudio.google.com/)
+- [MS Power BI](https://powerbi.microsoft.com/en-us/)
 
 
 
