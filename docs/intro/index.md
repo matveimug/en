@@ -22,11 +22,22 @@ Should we talk a bit about the [Erasmus Edesign project](https://e-disain.eu/en/
 - Once inside any of the 4 Chapters, you'll find Topics and Subtopics of each chapter from the 👈 left sidebar.
 
 
+
+
 ::: tip
 
 The web is evolving in such speed that todays articles may be obsolete tomorrow. So if you plan to use this material, use it as a reference - but always search for more/newer sources.
 
 :::
+
+
+<note v-slot:notecontent :open="false" title="This is a special message. Click me!">
+
+From time to time you may find some sidenotes or thoughts. Mostly for teachers etc.
+
+They are usually hidden by default, so they do not affect the overall reading flow. And usually they come before or after the main content. 
+    
+</note>
 
 
 <a class="ed-button ed-primary ed-elevated-025" href="/intro/intro/what.html">Lets go</a>
