@@ -31,7 +31,7 @@ The web is evolving in such speed that todays articles may be obsolete tomorrow.
 :::
 
 
-<note v-slot:notecontent :open="false" title="This is a special message. Click me!">
+<note :open="false" title="👉👉👉 This is a special message. Click me!">
 
 From time to time you may find some sidenotes or thoughts. Mostly for teachers etc.
 
