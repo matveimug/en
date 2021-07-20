@@ -80,7 +80,7 @@ One specific type of illustrations are background patterns. You can create a pat
     - [Random Patterns in PS](https://medialoot.com/blog/how-to-make-a-random-pattern-fill-in-photoshop/)
     - search for more
 
-### Crate with code
+### Create with code
 
 You also can generate patterns with CSS or javascript. The aim here is not to dive too deep technically, let's just see some resources and helper tools
 
