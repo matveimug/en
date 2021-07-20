@@ -15,7 +15,10 @@ Did you notice the section with a stopwatch below the main heading at the top of
 ::: 
 
 
-<!-- ## Subtopics -->
+
+
+
+
 
 
 ## What distinguishes digital and traditional graphic design
@@ -24,25 +27,31 @@ Did you notice the section with a stopwatch below the main heading at the top of
 - Webflow article: [7 ways web design is different than graphic design](https://webflow.com/blog/web-design-vs-graphic-design)
 - Adobe: [Digital vs Graphic Design](https://xd.adobe.com/ideas/principles/web-design/digital-vs-graphic-design/)
 
-So:
+Main points:
 
 - print vs screen
 - static vs dynamic elements
-- fixed vs responsible "canvas"
+- fixed vs responsive "canvas"
 - final vs iterations
 - data analysis
 
 
-## User interfaces (UI)
 
-- Physical UI
-- Digital UI
-    - Text / Command Line Interfaces (CLI)
-    - Graphic User Interfaces (GUI)
-    - Voice controlled
-    - Gesture based
-    - etc
 
+
+## User interface (UI)
+
+[The World Is Our Interface – The Evolution of UI Design](https://www.toptal.com/designers/ui/touch-the-world-is-our-interface)
+
+- Physical UIs
+    - [Control panels](https://control--panel.com/)
+    - [Everyday objects](https://collection.sciencemuseumgroup.org.uk/search/objects/images/categories/domestic%20appliances)
+- Digital UIs
+    - [Text / Command Line Interfaces (CLI)](https://www.youtube.com/watch?v=4RPtJ9UyHS0)
+    - [Graphic User Interfaces (GUI)](https://www.youtube.com/watch?v=XIGSJshYb90)
+    - [Voice controlled User Interface](https://youtu.be/ZFXhvy01SE4?t=41)
+    - [Gesture based](https://www.youtube.com/watch?v=T9ATJrZpvm0)
+    - [eyes](https://www.youtube.com/watch?v=6s2Ug-eVpVc), [brains](https://www.youtube.com/watch?v=U_WxaDHNw6I), etc
 
 
 
@@ -55,25 +64,10 @@ So:
 
 
 
+
+
 ## The roles of UI/UX designer
 
+Springboard.com has a [nice article](https://www.springboard.com/library/ui-ux-design/job-description/) about this.
 
-
-
-
-
-
-
-## Links and materials
-
-- [Wikipedia](https://en.wikipedia.org/wiki/User_interface)
-
-#### Physical UI
-
-- [Pinterest: Physical UI](https://www.pinterest.com/nzbails/product-physical-user-interface/)
-- [Control--Panel.com: Collection of Control Panels](https://control--panel.com/)
-
-#### Digital UI
-- [Keyboards & Command Line Interfaces](https://www.youtube.com/watch?v=4RPtJ9UyHS0) 📺
-- [Graphical User Interfaces](https://www.youtube.com/watch?v=XIGSJshYb90) 📺
 
