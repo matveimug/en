@@ -3,6 +3,7 @@ module.exports = {
 	title: 'Interactive Graphics | Erasmus E-Design',
 	description: 'Study materials for the course',
 	themeConfig: {
+		lastUpdated: true,
 		nav: [
 			{ text: '01.Introduction', link: '/intro/', activeMatch: '^/intro/' },
 			{ text: '02.Front End', link: '/frontend/', activeMatch: '^/frontend/' },

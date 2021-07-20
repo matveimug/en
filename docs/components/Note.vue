@@ -1,6 +1,6 @@
 <template>
     <details :open="open" >
-        <summary class="ed-elevated-025">{{title}}</summary>
+        <summary :class="opened ? 'ed-elevated-025' : ''">{{title}}</summary>
         <div class="note-content ed-elevated-025">
             <!-- <slot name="notecontent" /> -->
             <slot />
@@ -10,7 +10,7 @@
 
 <script>
 
-// import { ref } from 'vue';
+import { ref } from 'vue';
 
 export default {
     props : {
@@ -24,8 +24,8 @@ export default {
         }
     },
     setup(props){
-        // const open = ref(false);
-        // return { open }
+        const opened = ref(false);
+        return { opened }
     }
 }
 </script>

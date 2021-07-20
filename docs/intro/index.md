@@ -31,12 +31,12 @@ The web is evolving in such speed that todays articles may be obsolete tomorrow.
 :::
 
 
-<note :open="false" title="👉👉👉 This is a special message. Click me!">
+<note :open="false" title="👉 This is a special message. Click me! 👈">
 
-From time to time you may find some sidenotes or thoughts. Mostly for teachers etc.
+From time to time you may find some sidenotes or other thoughts like that. Mostly for teachers etc.
 
 They are usually hidden by default, so they do not affect the overall reading flow. And usually they come before or after the main content. 
-    
+
 </note>
 
 
