@@ -1,6 +1,7 @@
 # What is Interactive Graphics?
 
-<DurationSnippet s="2" />
+<duration-snippet s="2" />
+
 
 ## Interactive Graphics? 🤷‍♀️
 
