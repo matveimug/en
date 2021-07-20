@@ -1,8 +1,9 @@
 <template>
     <details :open="open" >
-        <summary>👨‍🏫 {{title}}</summary>
-        <div class="note__content ed-elevated-025">
-            <slot name="notecontent" />
+        <summary class="ed-elevated-025">{{title}}</summary>
+        <div class="note-content ed-elevated-025">
+            <!-- <slot name="notecontent" /> -->
+            <slot />
         </div>
     </details>
 </template>
@@ -30,15 +31,17 @@ export default {
 </script>
 
 <style scoped>
-    summary{
-        padding: var(--ed-base-025);
-        border-radius: var(--ed-base-05);
+    summary {
+        padding: var(--ed-base-025) var(--ed-base-05);
+        /* border-top-left-radius: var(--ed-base-05);
+        border-top-right-radius: var(--ed-base-05); */
         cursor:pointer;
         background-color: var(--ed-c-warning);
     }
-    .note__content {
+    .note-content {
         border: 1px dotted var(--ed-c-gray-80);
         padding: var(--ed-base);
-        border-radius: var(--ed-base-05);
+        border-bottom-left-radius: var(--ed-base-05);
+        border-bottom-right-radius: var(--ed-base-05);
     }
 </style>
