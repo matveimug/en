@@ -20,11 +20,33 @@
     --ed-c-primary:     hsl(153, 48%, 46%);
 
     --ed-c-warning:  hsla(50, 100%, 70%, 0.3);
-
+    
+    --ed-c-yellow:  hsla(50, 100%, 60%, 1);
 
 }
 
 /* YO, tüübid! Override existing or create new CSS rules here.  */
+
+.important {
+    border: 1px solid var(--ed-c-gray-80);
+    box-shadow: var(--ed-base-05) 0 0 0 var(--ed-c-yellow) inset;
+    padding: var(--ed-base-05) var(--ed-base) var(--ed-base-05) var(--ed-base-15);
+    border-radius: var(--ed-base-05);
+    /* border-left: clamp( var(--ed-base-05), 1vw, var(--ed-base-15)) solid var(--ed-c-yellow); */
+}
+.emojicon {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 3.5ch;
+    height: 3.5ch;
+
+    /* padding: 1ch; */
+    font-size: 150%;
+    border: 0.25ch solid var(--ed-c-gray-80);
+    border-radius: 3rem;
+}
+
 
 .content > div a {
     text-decoration: underline;
@@ -60,13 +82,13 @@ mark {
     text-decoration: none;
 }
 .ed-elevated-025 {
-    box-shadow: 0 0.25ch var(--ed-base-025) 0 hsla(0, 0%, 0%, 0.15);
+    box-shadow:  0 0.1rem 0 0 hsla(0, 0%, 0%, 0.2), 0 0.25rem var(--ed-base-025) 0 hsla(0, 0%, 0%, 0.1);
 }
 .ed-elevated-05 {
-    box-shadow: 0 0.5ch var(--ed-base-05) 0 hsla(0, 0%, 0%, 0.15);
+    box-shadow: 0 0.5rem var(--ed-base-05) 0 hsla(0, 0%, 0%, 0.1);
 }
 .ed-elevated-1 {
-    box-shadow: 0 1ch var(--ed-base) 0 hsla(0, 0%, 0%, 0.15);
+    box-shadow: 0 1rem var(--ed-base) 0 hsla(0, 0%, 0%, 0.1);
 }
 
 .ed-rounded-025 {
@@ -78,6 +100,9 @@ mark {
 .ed-rounded-1 {
     border-radius: var(--ed-base);
 }
+
+
+
 
 .video-responsive{
     overflow:hidden;

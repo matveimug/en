@@ -8,18 +8,44 @@ The history is in a separate chapter here, because the structure of curriculum d
 
 :::
 
+Watch this
+
+<div class="video-responsive">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/U1Oy4X5Ni8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
-- [asdas](https://www.youtube.com/watch?v=U1Oy4X5Ni8Y)
+## Evolution of operating systems
 
-[Canva: Web Design History](https://www.canva.com/learn/web-design-history/)
-
-
-::: tip MORE
-
-[CSS-Tricks: Web History](https://css-tricks.com/category/history/)
-
-::: 
+- [Android](https://www.youtube.com/watch?v=leCGI9flgbE)
+- [iOS](https://www.youtube.com/watch?v=czao_iNr5ew)
+- [MacOS](https://www.youtube.com/watch?v=_K5e8dJtMgE)
+- [Windows](https://www.youtube.com/watch?v=JekE1C-fWn0)
 
 
 
+
+## Evolution of web
+
+- [CSS-Tricks: Web History](https://css-tricks.com/category/history/)
+- [Canva: Web Design History](https://www.canva.com/learn/web-design-history/)
+- [A Newgrounds.com Web Design Retrospective](https://www.youtube.com/watch?v=9mxTQf89leI)
+
+
+Some familiar services:
+
+
+- [Google](https://www.youtube.com/watch?v=4Qf_Tw9vbbc)
+- [YouTube](https://www.youtube.com/watch?v=8zXJOEpa6_Y)
+- [Facebook](https://www.youtube.com/watch?v=7nehV6knK3g)
+- [Instagram](https://www.youtube.com/watch?v=qA9g5W05FUM)
+
+
+
+<div class="important">
+
+There is a website, where you can see, how webpages used to look like in the past: **Check out [The Wayback Machine](https://archive.org/web/)**
+
+</div>
+
+Bonus video: [History of Flash](https://www.youtube.com/watch?v=xBXZtFlIA7c)
