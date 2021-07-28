@@ -78,11 +78,9 @@ function getIntroSidebar() {
 		{
 			text: 'The Process',
 			children: [
-				{ text: 'The Brief', link: '/intro/planning/brief' },
-				{ text: 'Setting up the project', link: '/intro/planning/setup' },
-				{ text: 'Time schedule', link: '/intro/planning/schedule' },
-				{ text: 'Pricing', link: '/intro/planning/pricing' },
-				{ text: 'Documenting and archiving', link: '/intro/planning/documenting' },
+				{ text: 'Project management', link: '/intro/project/project-management' },
+				{ text: 'Setting up the project', link: '/intro/project/setup' },
+				{ text: 'Design process', link: '/intro/project/design-process' },
 			]
 		},
 		{
