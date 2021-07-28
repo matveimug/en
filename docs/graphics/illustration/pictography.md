@@ -20,7 +20,6 @@ These are usually the main aspects to keep in mind while creating icons:
 Read these articles to 
 
 - [EnvatoTuts: How to Make Icons](https://design.tutsplus.com/articles/how-to-make-icons--cms-32202)
-- [Design Systems: Iconography Guide](https://www.designsystems.com/iconography-guide/)
 - [Iconfinder: Better Icon Design in 6 Easy Steps](https://blog.iconfinder.com/better-icon-design-in-6-easy-steps-68a7c8fa0889)
 
 
@@ -28,6 +27,7 @@ Read these articles to
 
 Let's also browse icon sections of different **design systems**:
 
+- [Design Systems: Iconography Guide](https://www.designsystems.com/iconography-guide/)
 - [Google Material](https://design.tutsplus.com/articles/how-to-make-icons--cms-32202)
 - [IBM Carbon](https://www.carbondesignsystem.com/guidelines/icons/usage/)
 - [Lightning Design](https://www.lightningdesignsystem.com/guidelines/iconography/)

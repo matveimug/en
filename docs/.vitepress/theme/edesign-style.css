@@ -30,10 +30,29 @@
 .important {
     border: 1px solid var(--ed-c-gray-80);
     box-shadow: var(--ed-base-05) 0 0 0 var(--ed-c-yellow) inset;
-    padding: var(--ed-base-05) var(--ed-base) var(--ed-base-05) var(--ed-base-15);
+    padding: var(--ed-base) var(--ed-base) var(--ed-base) var(--ed-base-15);
     border-radius: var(--ed-base-05);
     /* border-left: clamp( var(--ed-base-05), 1vw, var(--ed-base-15)) solid var(--ed-c-yellow); */
 }
+.important >  p:first-child, 
+.important > h1:first-child, 
+.important > h2:first-child, 
+.important > h3:first-child, 
+.important > h4:first-child, 
+.important > h5:first-child,
+.important > ul:first-child {
+    margin-top: 0;
+}
+.important >  p:last-child, 
+.important > h1:last-child, 
+.important > h2:last-child, 
+.important > h3:last-child, 
+.important > h4:last-child, 
+.important > h5:last-child,
+.important > ul:last-child {
+    margin-bottom: 0;
+}
+
 .emojicon {
     display: inline-flex;
     justify-content: center;
@@ -42,8 +61,8 @@
     height: 3.5ch;
 
     /* padding: 1ch; */
-    font-size: 150%;
-    border: 0.25ch solid var(--ed-c-gray-80);
+    font-size: 120%;
+    border: 0.2ch solid var(--ed-c-gray-60);
     border-radius: 3rem;
 }
 

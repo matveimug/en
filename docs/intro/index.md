@@ -26,7 +26,7 @@ Should we talk a bit about the [Erasmus Edesign project](https://e-disain.eu/en/
 
 ::: tip
 
-The web is evolving in such speed that todays articles may be obsolete tomorrow. So if you plan to use this material, use it as a reference - but always search for more/newer sources.
+The web is evolving in such speed that todays articles may often be obsolete tomorrow. So if you plan to use this material at your own, use it as a reference - but always search for more/newer sources.
 
 :::
 
@@ -40,7 +40,7 @@ They are usually hidden by default, so they do not affect the overall reading fl
 </note>
 
 
-<a class="ed-button ed-primary ed-elevated-025" href="/intro/intro/what.html">Lets go</a>
+<a class="ed-button ed-primary ed-elevated-025" href="./intro/what.html">Lets go</a>
 
 <!--
 
