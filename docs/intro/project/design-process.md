@@ -1,6 +1,15 @@
 # The design process
 
-Once we understand the problem, the project begins. Again - the actual process depends on the client or team or size of the project etc, but here is one possible way.
+The actual design process depends on the team workflow / client / project etc, but usually these steps are involved: 
+
+1. research / background
+2. planning / ideas
+3. prototyping
+4. making / executing  
+5. measuring / analyzing
+
+Changing things and correct mistakes is much easier with digital products. It means, that usually teams work in loops - you should test often and early and take a step back in process, if needed. 
+
 
 
 ### 1. Define

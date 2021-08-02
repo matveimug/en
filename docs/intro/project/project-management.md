@@ -23,11 +23,11 @@ Here are **some key points** that may help us to ask the right questions **to an
 - who is our **main contact** at client's side - it may sound silly, but sometimes it is not obvious
 - what is **the problem** we are solving - can we put it in **one sentence**?
 - what are **our goals** - what should be **different** after this project?
-- target **audience** - age, sex, background etc
+- target **audience** 
 - what **have been done before** - branding, previous projects, research etc
 - **competitors** - what others are doing
-- the **budget** - is it worth it?
-- **deadline** - is it possible for you 
+- the **budget** 
+- **deadline** 
 - other (partners, law (copyright), restrictions, cultural and other possibly important aspects)
 
 That was just a short list, more thorough articles can be found here:
@@ -57,8 +57,27 @@ One is clear - **it must be clear for everyone, how the budget is made and what 
 
 Again - there is no one set of clear rules that applies for every case here. It all depends on project type or size/length, your previous relations/experience with the client, different cultures may have different traditions and so on.
 
-The key question here is - **how to estimate your work**, because often you have to agree on the price before the project starts. At least in big scale. It comes with experience, but until then let's find out, what those with experience say about this topic:
+### Estimating
 
-- [📌How to estimate design work](https://uxdesign.cc/how-to-estimate-ux-design-254524e37f2b) - good article 
+The key question here is - **how to estimate your work**, because often you have to agree on the price before the project starts. At least in big scale. It may be easier if you have more experience *(it's not!)*, but until then let's find out, what those who are more experienced say about this topic:
 
-With very big projects it may be necessary to break it up to smaller parts and estimate the work step by step.
+- [How to estimate design work](https://uxdesign.cc/how-to-estimate-ux-design-254524e37f2b) - 👈 here is a good article about that 
+
+::: tip
+
+With big projects it may be necessary to **break it up** to smaller parts and **estimate the work step by step**.
+
+:::
+
+
+
+
+
+### Hidden costs
+
+Also, we have to make sure, **what are the "hidden costs"** in our project. 
+
+Do we have to pay for some extra images or illustrations? Who pays for hosting services? What if the amout of Google Map API queries exceeds the free plan? OMG, does this extra special font that client demands to use, costs that much?!? And those drone videos... how did we forget about those 360° slow-motion drone videos?
+
+
+
