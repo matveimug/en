@@ -65,6 +65,7 @@ Be not afraid - not all the infographics are boring bars. Here is a list of cool
     - [Omnisci - a lot of great demos](https://www.omnisci.com/demos) 📌
     - [All the Radio Stations in The World](http://radio.garden/)
 - Magic Seeing
+    - [Bartosz Ciechanowski is visualizing unvisible processes](https://ciechanow.ski/) 📌
     - [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html?via=gdpr-consent)
     - [Wind](https://earth.nullschool.net/#current/wind/surface/level/orthographic=38.45,49.95,599)
     - [Nuclear Detonations](https://vimeo.com/135580602)
