@@ -60,7 +60,7 @@ There's more, like [described here](https://www.pcmag.com/picks/the-best-cloud-s
 At some point you also need something to keep track of more features, people, tasks, assignements and so on. For this there are some special project management tools with free/starter options
 
 
-- [ClickUp](https://clickup.com/features)
+- [ClickUp](https://clickup.com/features) 📌
 - [Asana](https://asana.com/)
 - [Github Projects](https://github.com/features#features-project-management)
 - [10 Best Free Project Management Software & Freemiums](https://thedigitalprojectmanager.com/free-project-management-software/)
@@ -69,21 +69,23 @@ At some point you also need something to keep track of more features, people, ta
 
 - [Clockify](https://clockify.me/)
 - [Toggl](https://toggl.com/)
+- [Agantty](https://agantty.com/) - [Gantt's](https://en.wikipedia.org/wiki/Gantt_chart) graphs
 
 
-
-Read more about project management at the [Frontend part](../../../frontend/tooling/project-management) (2nd learning outcome) of this curriculum.
+Read more about project management at the [Frontend part]<!--(../../../frontend/tooling/project-management)--> (2nd learning outcome) of this curriculum.
 
 
 
 
 ## Code managment and versioning
 
-This topic is discussed in detail in the [Frontend part](../../../frontend/tooling/versioning) (2nd learning outcome) of this curriculum.
+This topic is discussed in detail in the [Frontend part]<!--(../../../frontend/tooling/versioning)--> (2nd learning outcome) of this curriculum.
 
 
 ## Planning and ideating
 
+
+- [25 Brainstorming Techniques for Problem-Solving and Planning](https://www.indeed.com/career-advice/career-development/brainstorming-techniques)
 - [FigJam](https://www.figma.com/figjam/)
 - [Miro](https://miro.com/online-brainstorm-tool/)
 - [JamBoard](https://jamboard.google.com/) 
@@ -112,4 +114,8 @@ This section is originally a topic under Designing learning output in the curric
 
 
 
+::: tip
+
 Nice list of project management tools [can be found here](https://thedigitalprojectmanager.com/tools/)
+
+:::

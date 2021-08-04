@@ -8,6 +8,8 @@ The history is in a separate chapter here, because the structure of curriculum d
 
 :::
 
+[Timeline of web](https://thehistoryoftheweb.com/timeline/)
+
 Watch this
 
 <div class="video-responsive">

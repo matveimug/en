@@ -77,7 +77,6 @@ With big projects it may be necessary to **break it up** to smaller parts and **
 
 Also, we have to make sure, **what are the "hidden costs"** in our project. 
 
-Do we have to pay for some extra images or illustrations? Who pays for hosting services? What if the amout of Google Map API queries exceeds the free plan? OMG, does this extra special font that client demands to use, costs that much?!? And those drone videos... how did we forget about those 360° slow-motion drone videos?
-
+Do we have to pay for some extra images or illustrations? Who pays for hosting services? What if the amout of Google Map API queries exceeds the free plan? And all those 360° slow-motion drone videos... 
 
 
