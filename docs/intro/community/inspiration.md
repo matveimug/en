@@ -15,7 +15,7 @@ It means, that we all have to **constantly keep in touch**, what is going on out
 
 There are some services, that collect content from many sources. It's a good way to start, although may be a bit overwhelming.
 
-- [Panda](https://app.usepanda.com/#/)
+- [Panda](https://app.usepanda.com/#/) - all-in-one 📌
 - [Muzli](https://muz.li/)
 
 
@@ -30,6 +30,7 @@ There are some services, that collect content from many sources. It's a good way
 ## Design portals
 
 - [Awwwards](https://www.awwwards.com/)
+- [Httpster](https://httpster.net/)
 - [Dribble](https://dribbble.com/)
 - [Bēhance](https://www.behance.net/)
 
@@ -49,6 +50,7 @@ There's a lot of information out there. Sometimes it's nice if someone goes thro
 
 ## Twittagramtube
 
+- [Instagram #tags](https://www.instagram.com/explore/tags/uiux/) - search for whatever tag/topic
 - [TheFutur](https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog)
 - [Adobe CC channel](https://www.youtube.com/channel/UCL0iAkpqV5YaIVG7xkDtS4Q) has some nice content
 - [Aiga Design](https://www.youtube.com/channel/UC_oEd1TQbuVZzr_Kw73XDEQ)
@@ -65,8 +67,19 @@ There's a lot of information out there. Sometimes it's nice if someone goes thro
 - [100 Years of Bauhaus \ Walter Gropius](https://www.youtube.com/watch?v=2a45UBCIbJc)
 - [Architecture, art and design - 100 years of the Bauhaus](https://www.youtube.com/watch?v=rg3X1vZN5TA)
 - [Artbound - the whole playlist from KCET](https://www.youtube.com/watch?v=8OMELtfF-5E&list=PL509E68B7D65E0007)
+- [Typography: The Overlooked Art](https://www.youtube.com/watch?v=iCgdf4pkvtQ)
+- [The modern Russian design](https://www.youtube.com/watch?v=1GkOPUh3J_I)
+- [The Genius of Design 1-5](https://www.youtube.com/user/carlossenna25/featured)
+- [Illustrators](https://www.youtube.com/watch?v=GHNnBuCLjU)
+- [Design playlist from Vox](https://www.youtube.com/watch?v=NvFoKkWyZ5Y&list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ)
+- [Fonts and typeface design playlist from Vox](https://www.youtube.com/watch?v=Zu91meda2I8&list=PLJ8cMiYb3G5cfHN--FjIpXN7W7ftZR1gO)
+- [Graphic Design History](https://www.youtube.com/watch?v=OS8rZ8iwcJM)
 
 
+
+## Talks
+
+- [Annie Atkins | The secret world of graphic design for filmmaking](https://www.youtube.com/watch?v=SzGvEYSzHf4)
 
 ## Visual inspiration
 
