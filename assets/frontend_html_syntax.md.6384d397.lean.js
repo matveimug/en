@@ -1,0 +1,1 @@
+import{o as a,c as t,e as n}from"./app.060d6601.js";const s='{"title":"Markup","description":"","frontmatter":{},"relativePath":"frontend/html/syntax.md","lastUpdated":1630869125837}',e={},o=n('',7);e.render=function(n,s,e,p,c,l){return a(),t("div",null,[o])};export default e;export{s as __pageData};

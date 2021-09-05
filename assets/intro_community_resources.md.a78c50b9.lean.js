@@ -1,0 +1,1 @@
+import{o as e,c as r,e as a}from"./app.060d6601.js";const s='{"title":"Resources","description":"","frontmatter":{},"relativePath":"intro/community/resources.md","lastUpdated":1630869125837}',i={},t=a('',4);i.render=function(a,s,i,o,l,n){return e(),r("div",null,[t])};export default i;export{s as __pageData};

@@ -1,0 +1,1 @@
+import{o as e,c as r,e as a}from"./app.060d6601.js";const t='{"title":"Layout and grid","description":"","frontmatter":{},"relativePath":"design/composition/layout.md","lastUpdated":1630869125837}',o={},n=a('',2);o.render=function(a,t,o,s,i,d){return e(),r("div",null,[n])};export default o;export{t as __pageData};
