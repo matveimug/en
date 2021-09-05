@@ -36,9 +36,9 @@ function getFrontEndSidebar() {
 			text: 'HTML',
 			children: [
 				{ text: 'History and standards', link: '/frontend/html/history' },
-				{ text: 'Syntax', link: '/frontend/html/syntax' },
-				{ text: 'Document object model aka DOM', link: '/frontend/html/dom' },
+				{ text: 'Markup', link: '/frontend/html/syntax' },
 				{ text: 'Elements', link: '/frontend/html/elements' },
+				{ text: 'Document object model aka DOM', link: '/frontend/html/dom' },
 			]
 		},
 		{
