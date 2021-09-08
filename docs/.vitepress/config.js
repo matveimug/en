@@ -9,12 +9,14 @@ module.exports = {
 			{ text: '02.Front End', link: '/frontend/', activeMatch: '^/frontend/' },
 			{ text: '03.Design', link: '/design/', activeMatch: '^/design/' },
 			{ text: '04.Graphics', link: '/graphics/', activeMatch: '^/graphics/' },
+			{ text: '05.3D', link: '/3d/', activeMatch: '^/3d/' },
 		],
 		sidebar: {
 			'/intro/': getIntroSidebar(),
 			'/design/': getDesignSidebar(),
 			'/frontend/': getFrontEndSidebar(),
 			'/graphics/': getGraphicsSidebar(),
+			'/3d/': get3dSidebar(),
 		}
 	}
 }
@@ -152,7 +154,7 @@ function getGraphicsSidebar() {
 			children: [
 				{ text: 'File formats', link: '/graphics/vector-pixel/file-formats' },
 				{ text: 'Using images in web', link: '/graphics/vector-pixel/using-images' },
-				
+
 			]
 		},
 		{
@@ -168,5 +170,11 @@ function getGraphicsSidebar() {
 				{ text: 'Working with data', link: '/graphics/infographics/working-with-data' },
 			]
 		},
+	]
+}
+
+function get3dSidebar() {
+	return [
+		{ text: 'Introduction to 3d-graphics', link: '/3d/' },
 	]
 }
